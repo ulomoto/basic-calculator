@@ -1,0 +1,7 @@
+C:\Users\pc8\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+C:\Users\pc8\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+C:\Users\pc8\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Form1.resources
+C:\Users\pc8\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\pc8\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\pc8\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.exe
+C:\Users\pc8\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.pdb
