@@ -1,2 +1,2 @@
 # basic-calculator
-for school purpose 
+feel free to modify 
